@@ -23,4 +23,4 @@ and append the `imports` section:
   }
 ```
 
-For a detailed understanding of what `imports` does, read the following [detailed post](https://msdn.microsoft.com/en-us/library/system.windows.input.icommand.aspx).
+For a detailed understanding of what `imports` does, read the following [detailed post](https://oren.codes/2016/07/09/using-xamarin-forms-with-net-standard/).
